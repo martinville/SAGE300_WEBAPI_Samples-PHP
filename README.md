@@ -17,11 +17,7 @@ Will send a 2 line item order to the OE WebAPI to show you how to add items to t
 I.E If you have a database loop that will read each record , they can be added to the array one by one untill the loop is 
 complete.
 
-get_ar_customerinfo.php will fetch customer infor from the accounts receiveable endoint.
+get_ar_customerinfo.php Will fetch customer information from the accounts receiveable endoint.
 
-get_ar_shiptolocation.php will fetch all ship to locations. If there are more ship to locations the JSON object will be
-multidimentional and contain more than one record. The sample shows you how to cycle throug each location.
-
-
-
-
+get_ar_cust_optional_fields.php Will fetch all ship to locations. Optional fields sometimes have multiple values, meaning 
+it will be nested array inside a nested array.
