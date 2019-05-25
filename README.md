@@ -7,6 +7,13 @@ The instructions for this can be followed from the official Sage 300 installatio
 Setup a new user:WEBAPI with a password:WEBAPI and make sure the WEBAPI user has read/write web api access in the permission 
 setup for the sage modules. IE AR, OE ect ect.
 
+Some notes:
+These samples do not query all web-api enpoints mostly because in principal the method used to query the API is the same.
+I specifically selected and created samples that should cover all scenarios.
+
+
+
+
 
 
 
