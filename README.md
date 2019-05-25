@@ -15,6 +15,13 @@ I specifically selected and created samples that should cover all scenarios.
 post_oe_order.php
 Will send a 2 line item order to the OE WebAPI to show you how to add items to the detail array in a loop.
 I.E If you have a database loop that will read each record , they can be added to the array one by one untill the loop is 
-comple.
+complete.
+
+get_ar_customerinfo.php will fetch customer infor from the accounts receiveable endoint.
+
+get_ar_shiptolocation.php will fetch all ship to locations. If there are more ship to locations the JSON object will be
+multidimentional and contain more than one record. The sample shows you how to cycle throug each location.
+
+
 
 
