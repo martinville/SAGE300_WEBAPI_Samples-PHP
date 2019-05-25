@@ -11,7 +11,7 @@ Some notes:
 These samples do not query all web-api enpoints mostly because in principal the method used to query the API is the same.
 I specifically selected and created samples that should cover all scenarios.
 
-See below Gists
+
 post_oe_order.php
 Will send a 2 line item order to the OE WebAPI to show you how to add items to the detail array in a loop.
 I.E If you have a database loop that will read each record , they can be added to the array one by one untill the loop is 
