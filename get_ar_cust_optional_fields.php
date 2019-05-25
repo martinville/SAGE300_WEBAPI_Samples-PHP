@@ -36,7 +36,7 @@ $JSON_OBJ = json_decode($IncommingData,true); //Decode data from URL into JSON F
 
 //CustomerOptionalFieldValues is a JSON object that holdes more than one record
 //Below will cycle through them one by one using foreach
-//Tip: To get a better gist of this uncomment the section that will dump all the of the cutomer info to screen.
+//Tip: To get a better idea of this uncomment the section that will dump all the of the cutomer info to screen.
 
 //CUSTOMER_IFNO
 // |
