@@ -1,4 +1,4 @@
-# SAGE300_WEBAPI_Samples-PHP-
+# SAGE300_WEBAPI_Samples-PHP
 Just a few Sage 300 WEP API examples using PHP and CURL
 
 For these samples to work you need to setup a Sage ERP 300 Sample company (SAMINC).
